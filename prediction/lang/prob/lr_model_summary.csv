@@ -1,0 +1,4 @@
+version, Attr, sigAttr,Residual.deviance, df.residual, null.deviance, df.null, AIC, iter, theta, std.err, 2loglik
+lang2.2_all.csv,1,2,37.200273143999,71,54.5200013455752,72,41.200273143999,7,,, 
+lang2.3_all.csv,1,2,38.8167969760952,82,43.2295316113637,83,42.8167969760951,5,,, 
+lang2.4_all.csv,2,2,34.0476104907889,82,72.7221091710419,84,40.0476104907889,7,,, 
