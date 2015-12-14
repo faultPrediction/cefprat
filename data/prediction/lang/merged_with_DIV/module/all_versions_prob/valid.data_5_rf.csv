@@ -1,0 +1,13 @@
+"","name","pre"
+"1","org.apache.commons.lang3",0.852
+"2","org.apache.commons.lang3.builder",0.514
+"3","org.apache.commons.lang3.concurrent",0.222
+"4","org.apache.commons.lang3.event",0.202
+"5","org.apache.commons.lang3.exception",0.052
+"6","org.apache.commons.lang3.math",0.066
+"7","org.apache.commons.lang3.mutable",0.074
+"8","org.apache.commons.lang3.reflect",0.426
+"9","org.apache.commons.lang3.text",0.516
+"10","org.apache.commons.lang3.text.translate",0.5
+"11","org.apache.commons.lang3.time",0.606
+"12","org.apache.commons.lang3.tuple",0.242

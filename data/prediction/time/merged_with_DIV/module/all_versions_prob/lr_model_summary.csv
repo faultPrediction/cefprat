@@ -1,0 +1,5 @@
+version, Attr, sigAttr,Residual.deviance, df.residual, null.deviance, df.null, AIC, iter, theta, std.err, 2loglik
+module_time2.0_all.csv,2,0,2.26624496941769e-10,4,8.3757742401936,6,6.00000000022662,25,,, 
+module_time2.1_all.csv,4,0,1.91217530663007e-09,9,18.2491837128343,13,10.0000000019122,25,,, 
+module_time2.2_all.csv,1,2,14.174934681022,19,27.9101944235064,20,18.174934681022,7,,, 
+module_time2.3_all.csv,2,0,26.4477820205189,25,36.4983674256686,27,32.4477820205189,5,,, 
